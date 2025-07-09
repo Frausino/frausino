@@ -4,13 +4,12 @@
 
 ---
 ## 🌐 Tecnologias & Ferramentas
-![My Skills](https://skillicons.dev/icons?i=js)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![My Skills](https://skillicons.dev/icons?i=react)![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react)
-![My Skills](https://skillicons.dev/icons?i=tailwind)![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css)
-![My Skills](https://skillicons.dev/icons?i=python)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python)
-![My Skills](https://skillicons.dev/icons?i=googlecloud)![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square\&logo=google-cloud)
-![My Skills](https://skillicons.dev/icons?i=linux)![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square\&logo=kalilinux)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square\&logo=google-cloud)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square\&logo=kalilinux)
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript)
