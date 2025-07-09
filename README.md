@@ -33,6 +33,11 @@
 
 
 ---
+
+## 🐍 Snake Commit
+
+![Snake animation](https://github.com/Frausino/Frausino/blob/output/github-contribution-grid-snake.svg)
+
 ## 🎓 Sobre mim
 
 Sou apaixonado por tecnologia, sistemas inteligentes, segurança da informação e pelo desenvolvimento de soluções inovadoras que transformam ideias em produtos reais. Tenho experiência com desenvolvimento web e mobile, arquitetura de sistemas, cloud computing e estou me preparando para concursos na área de Perícia Criminal Federal com foco em Ciência da Informação.
