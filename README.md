@@ -69,8 +69,6 @@ Atualmente, também sou aluno da pós-graduação em Data Science & Machine Lear
 
 ## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frausino&theme=blueberry)
-
 ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frausino\&show_icons=true\&theme=radical\&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frausino\&layout=compact\&theme=radical)
 
