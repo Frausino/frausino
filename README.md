@@ -67,13 +67,6 @@ Atualmente, também sou aluno da pós-graduação em Data Science & Machine Lear
 
 ---
 
-## 📊 GitHub Stats
-
-![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frausino\&show_icons=true\&theme=radical\&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frausino\&layout=compact\&theme=radical)
-
----
-
 ## 🙌 Vamos conversar?
 
 Se você se interessa por tecnologia, acessibilidade, IA ou quer colaborar em algum projeto, sinta-se à vontade para me chamar. Estou sempre aberto a novas ideias e desafios!
