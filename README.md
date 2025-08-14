@@ -1,5 +1,5 @@
 # Olá! Eu sou o Davi Rosa Frausino 👋
-## 🌐 Tecnologias & Ferramentas
+
 ### Researcher in accessibility with Machine Learning and Data | Developer of interactive interfaces (Three.js, React Three Fiber (R3F) , GSAP) | Google Cloud.
 
 ---
