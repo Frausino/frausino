@@ -10,19 +10,6 @@ Sou estudante de Ciência da Informação e pesquisador em acessibilidade com fo
 
 ---
 
-## 💡 Minhas Especializações
-
-* Desenvolvimento Web com **React.js**, **Tailwind CSS**, **Vite**, **Bootstrap**
-* Desenvolvimento Mobile com **React Native**
-* Backend com **Node.js**, **Express**, **Django**, **FastAPI**
-* Banco de Dados: **MongoDB**, **PostgreSQL**, **SQLite**, **BigQuery**
-* Infraestrutura em nuvem: **Google Cloud Platform**, **Firebase**, **Docker**
-* Segurança da Informação e Pentest (usuário ativo de **Kali Linux**)
-* RAGs (Retrieval-Augmented Generation), Sistemas OLAP e dashboards empresariais
-* Projetos com foco em **acessibilidade**, **e-commerce**, **sistemas forenses** e **IA**
-
----
-
 ## 🙌 Vamos conversar?
 
 Se você se interessa por tecnologia, acessibilidade, IA ou quer colaborar em algum projeto, sinta-se à vontade para me chamar. Estou sempre aberto a novas ideias e desafios!
