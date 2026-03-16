@@ -1,16 +1,18 @@
 # Olá! Eu sou o Davi Rosa Frausino 👋
 
-### Pesquisador em Machine Learning e Segurança Aplicada| Desenvolvimento de sistemas inteligentes e acessíveis | Google Cloud.
+### Cybersecurity Analyst (Information Risk & Data Protection) | Applied Security Research (Jr.) | AI Systems & Neurotechnology 
 
 ---
 
 ## 🎓 Sobre mim
 
-Sou estudante de Ciência da Informação com foco em Inteligência Artificial, algoritmos e segurança aplicada a sistemas computacionais. Minha formação técnica é baseada em fundamentos matemáticos e computacionais, incluindo cálculo, álgebra linear, probabilidade e análise de algoritmos, aplicados ao desenvolvimento de sistemas inteligentes confiáveis e escaláveis.
+Sou estudante de Ciência da Computação (5º semestre) e atuo na interseção entre segurança da informação, inteligência artificial e neurotecnologia, com foco no desenvolvimento de sistemas inteligentes confiáveis, auditáveis e resilientes.
 
-Tenho experiência prática no desenvolvimento de arquiteturas modernas de IA, incluindo sistemas baseados em Retrieval-Augmented Generation (RAG), pipelines de processamento de informação e aplicações que exigem engenharia de software segura e boas práticas de DevSecOps.
+Minha atuação envolve a análise de riscos, governança e proteção de dados, especialmente em cenários emergentes que combinam IA e dados neurofisiológicos. Tenho interesse particular nos desafios de segurança introduzidos por sistemas baseados em Interfaces Cérebro–Computador (Brain–Computer Interface – Interface Cérebro–Computador, BCI), que levantam novas questões relacionadas à privacidade, proteção de dados sensíveis e modelos de governança tecnológica.
 
-Paralelamente, realizo pesquisas exploratórias na interseção entre neurotecnologia e inteligência artificial, investigando o uso de Eletroencefalografia (Electroencephalography – Eletroencefalografia, EEG) em sistemas Brain-Computer Interface (BCI – Interface Cérebro-Computador) para aplicações em saúde, interação humano-computador e análise de sinais neurais.
+No campo prático, possuo formação em fundamentos de segurança ofensiva e defensiva, incluindo análise de ameaças, phishing, segurança em cloud e práticas de hardening, além de familiaridade com frameworks amplamente adotados na indústria como NIST Cybersecurity Framework (National Institute of Standards and Technology – Estrutura de Cibersegurança do NIST) e CIS Controls (Center for Internet Security – Controles do CIS).
+
+Paralelamente, desenvolvo projetos voltados à acessibilidade digital e sistemas inteligentes, explorando o uso de IA aplicada à interação humano–computador.
 ---
 
 ## 🙌 Vamos conversar?
