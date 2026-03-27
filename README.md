@@ -1,18 +1,25 @@
 # Olá! Eu sou o Davi Rosa Frausino 👋
 
-### Cybersecurity Analyst (Information Risk & Data Protection) | Applied Security Research (Jr.) | AI Systems & Neurotechnology 
+### Computer Science Student | AI Security & Neurodata
 
 ---
 
 ## 🎓 Sobre mim
 
-Sou estudante de Ciência da Computação (5º semestre) e atuo na interseção entre segurança da informação, inteligência artificial e neurotecnologia, com foco no desenvolvimento de sistemas inteligentes confiáveis, auditáveis e resilientes.
+  Sou estudante de Ciência da Computação (5º semestre) com interesse em segurança da informação e inteligência artificial, especialmente aplicadas a dados neurofisiológicos.
 
-Minha atuação envolve a análise de riscos, governança e proteção de dados, especialmente em cenários emergentes que combinam IA e dados neurofisiológicos. Tenho interesse particular nos desafios de segurança introduzidos por sistemas baseados em Interfaces Cérebro–Computador (Brain–Computer Interface – Interface Cérebro–Computador, BCI), que levantam novas questões relacionadas à privacidade, proteção de dados sensíveis e modelos de governança tecnológica.
+Tenho desenvolvido projetos voltados à construção de pipelines que envolvem:
+	•	Uso de dados de EEG 
+	•	Processamento de sinais 
+	•	Aplicação de modelos de machine learning e deep learning 
+	•	Análise de aspectos de segurança ao longo do pipeline, como integridade dos dados e confiabilidade das inferências
 
-No campo prático, possuo formação em fundamentos de segurança ofensiva e defensiva, incluindo análise de ameaças, phishing, segurança em cloud e práticas de hardening, além de familiaridade com frameworks amplamente adotados na indústria como NIST Cybersecurity Framework (National Institute of Standards and Technology – Estrutura de Cibersegurança do NIST) e CIS Controls (Center for Internet Security – Controles do CIS).
+Atualmente, direciono meus estudos para os desafios de segurança em sistemas que combinam IA e interfaces cérebro–computador (BCI), com foco em:
+	•	Identificação de vulnerabilidades em pipelines de dados neurais
+	•	Proteção e privacidade de dados sensíveis
+	•	Confiabilidade e robustez de modelos em cenários críticos
 
-Paralelamente, desenvolvo projetos voltados à acessibilidade digital e sistemas inteligentes, explorando o uso de IA aplicada à interação humano–computador.
+Tenho interesse em evoluir esses estudos para o desenvolvimento de sistemas mais seguros, auditáveis e aplicáveis a contextos reais.
 ---
 
 ## 🙌 Vamos conversar?
